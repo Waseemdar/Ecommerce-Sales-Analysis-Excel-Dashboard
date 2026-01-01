@@ -6,6 +6,10 @@ Excel-based e-commerce analytics dashboard analyzing 110K+ transactions to track
 This project is a comprehensive **Excel-based e-commerce analytics dashboard** built to analyze large-scale transactional data and convert it into clear, decision-ready insights.  
 The dashboard focuses on sales performance, profitability, customer behavior, and geographic distribution using advanced Excel features.
 
+## Dashboard Preview
+
+![E-commerce Excel Dashboard](Ecommerce_Dashboard.jpg)
+
 ## Dataset
 - ~110,000+ transaction records
 - 21 business attributes including:
